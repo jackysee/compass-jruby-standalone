@@ -11,7 +11,7 @@ Here are the steps to create a standalone jruby jar with compass related gems.
 
 run `install-compass-java.bat`, then use `compass.cmd` to run compass command
 
-## Installation script explained
+## What the script does
 
 1. get jruby-complete-*.jar via maven, e.g. http://mvnrepository.com/artifact/org.jruby/jruby-complete/1.7.4
 
