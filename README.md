@@ -28,4 +28,4 @@ run `install-compass-java.bat`, then use `compass.cmd` to run compass command
 
 4. command.cmd is like running
 
-       java -cp jruby-complete-1.7.4.jar;compass.jar org.jruby.Main -S compass compile -c config.rb
+        java -cp jruby-complete-1.7.4.jar;compass.jar org.jruby.Main -S compass compile -c config.rb
